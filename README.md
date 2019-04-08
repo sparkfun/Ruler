@@ -1,8 +1,9 @@
 SparkFun PCB Ruler
 ============================
 
-[![SparkFun RedBoard](https://cdn.sparkfun.com/assets/parts/1/3/7/9/2/15295-SparkFun_PCB_Ruler_-_12_Inch-01.jpg)  
-*SparkFun RedBoard (DEV-15295)*](https://www.sparkfun.com/products/15295)
+[![SparkFun PCB Ruler](https://cdn.sparkfun.com/assets/parts/1/3/7/9/2/15295-SparkFun_PCB_Ruler_-_12_Inch-01.jpg)](https://www.sparkfun.com/products/15295)
+
+[*SparkFun PCB Ruler (DEV-15295)*](https://www.sparkfun.com/products/15295)
 
 The SparkFun PCB Ruler
 
